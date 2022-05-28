@@ -8,7 +8,7 @@ const Portfolio = () => {
       className="grid md:grid-cols-1 w-full justify-center bg-[#F2F6F9] md:h-screen"
       id="pricing"
     >
-      <div className="flex md:flex-row w-full md:justify-center flex-col md:p-5 md:h-screen space-y-4  ">
+      <div className="flex md:flex-row w-full md:justify-center flex-col md:p-5 md:h-screen space-y-4  md:my-[40px] ">
         {/* 1st pricing Basic*/}
         <div className=" rounded-xl w-[350px] px-8 py-3 md:my-9  md:ml-4 bg-white hover:translate-y-1 hover:scale-110 duration-300 transition ease-in-out hover:bg-theme">
 

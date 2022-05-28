@@ -135,7 +135,7 @@ const Experience = () => {
             <div className="flex flex-col">
                 <div className="flex flex-row font-medium ">
                   <HiBadgeCheck size={16} className="my-1 mr-2 text-gold " />
-                  React
+                  Git
                 </div>
                 <p className="ml-6 text-[13px]">Experienced</p>
               </div>
