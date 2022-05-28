@@ -34,7 +34,7 @@ const Contact = () => {
         </div>
 
         {/* Entry Column */}
-        <div className=" flex flex-col space-y-7 mt-5 ">
+        <div className=" flex flex-col space-y-5 mt-5 ">
           <input
             type="text"
             name=""
@@ -58,8 +58,10 @@ const Contact = () => {
             rows="10"
             className=" w-[320px] h-[100px] bg-white border-solid border-2 p-2 rounded-lg resize-none "
             placeholder="Your Message"
-            
           ></textarea>
+          <button className="px-4 py-2 bg-theme rounded-md hover:bg-gray w-[150px] ">
+            Send Message
+          </button>
         </div>
       </div>
     </div>

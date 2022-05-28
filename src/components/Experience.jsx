@@ -91,8 +91,9 @@ const Experience = () => {
                 <p className="ml-6 text-[13px]">Experienced</p>
               </div>
             </li>
+
             <li className=" p-3 flex ">
-            <div className="flex flex-col">
+              <div className="flex flex-col">
                 <div className="flex flex-row font-medium ">
                   <HiBadgeCheck size={16} className="my-1 mr-2 text-gold " />
                   Node Js
@@ -100,6 +101,7 @@ const Experience = () => {
                 <p className="ml-6 text-[13px]">Intermediate</p>
               </div>
             </li>
+
             <li className=" p-3 flex ">
             <div className="flex flex-col">
                 <div className="flex flex-row font-medium ">
@@ -107,8 +109,8 @@ const Experience = () => {
                   PHP
                 </div>
                 <p className="ml-6 text-[13px]">Intermediate</p>
-              </div>
-            </li>
+              </div>            </li>
+
             <li className=" p-3 flex ">
             <div className="flex flex-col">
                 <div className="flex flex-row font-medium ">
@@ -118,6 +120,7 @@ const Experience = () => {
                 <p className="ml-6 text-[13px]">Experienced</p>
               </div>
             </li>
+
             <li className=" p-3 flex ">
             <div className="flex flex-col">
                 <div className="flex flex-row font-medium ">
@@ -127,6 +130,17 @@ const Experience = () => {
                 <p className="ml-6 text-[13px]">Intermediate</p>
               </div>
             </li>
+
+            <li className=" p-3 flex ">
+            <div className="flex flex-col">
+                <div className="flex flex-row font-medium ">
+                  <HiBadgeCheck size={16} className="my-1 mr-2 text-gold " />
+                  React
+                </div>
+                <p className="ml-6 text-[13px]">Experienced</p>
+              </div>
+            </li>
+
           </ul>
         </div>
       </div>
